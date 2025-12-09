@@ -4,9 +4,6 @@
 https://www.loom.com/share/d747df3df7484b9d98a665b05aa1bbc1
 
 # Active Directory PowerShell Lab Report
-**Date:** December 09, 2025
-
-## Objective
 The objective of this lab was to create and manage Active Directory users using a PowerShell script on a virtual machine.
 
 ## Steps Performed
