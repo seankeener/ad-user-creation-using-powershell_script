@@ -49,11 +49,17 @@ Write-Host "User '$username' was created successfully."
    - In PowerShell, navigated to the folder containing the script.
    - Executed the script using: `.\CreateUsers.ps1`.
    - Ensured that PowerShell Execution Policy allowed script execution (`Set-ExecutionPolicy RemoteSigned` if needed).
+   - <img width="1130" height="405" alt="image" src="https://github.com/user-attachments/assets/7e1db39f-ef5c-43df-a53c-f56754f4df04" />
+   <img width="1181" height="739" alt="image" src="https://github.com/user-attachments/assets/c459b713-fb11-493d-980f-9bac84e6fec1" />
+
+
 
 3. **Verified the Script Worked**
    - Opened *Active Directory Users and Computers (ADUC)*.
    - Confirmed that the new users were created successfully.
    - Optionally used `Get-ADUser` in PowerShell to list and verify the created accounts.
+   - <img width="751" height="528" alt="image" src="https://github.com/user-attachments/assets/4e922477-2dfa-4ee5-8810-0229152e91b9" />
+
 
 ## Outcome
 The PowerShell script successfully created the desired Active Directory users. The process demonstrates automating user creation using scripts, which is efficient for managing multiple accounts.
