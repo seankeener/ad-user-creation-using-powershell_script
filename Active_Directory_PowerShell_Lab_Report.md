@@ -1,3 +1,8 @@
+
+#Watch me do it HERE
+
+https://www.loom.com/share/d747df3df7484b9d98a665b05aa1bbc1
+
 # Active Directory PowerShell Lab Report
 **Date:** December 09, 2025
 
